@@ -6,6 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".Kode">
 
+    <!-- Tanggal: 30-04-2023 -->
+    <!-- Latihan3 -->
+    <!-- NIM : 10120222 -->
+    <!-- Nama : Martinus Celvyn -->
+    <!-- KELAS : IF-6 -->
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
