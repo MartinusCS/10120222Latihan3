@@ -47,6 +47,7 @@
             android:textStyle="bold"
             android:background="@drawable/border2"
             android:textSize="17sp"
+            android:hint="@string/titik"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView3" />
@@ -104,7 +105,7 @@
             android:id="@+id/textView6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="50dp"
             android:text="@string/belum"
             android:textSize="18sp"
             app:layout_constraintEnd_toEndOf="parent"
